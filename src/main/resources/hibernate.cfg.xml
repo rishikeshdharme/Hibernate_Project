@@ -14,7 +14,15 @@
 <!--        <mapping class="org.example.Inheritance_Joined.Person" />-->
 <!--        <mapping class="org.example.Inheritance_Joined.Student" />-->
 
-         <mapping class="org.example.Inheritance_Table_Per_Class.Person" />
-         <mapping class="org.example.Inheritance_Table_Per_Class.Student" />
+<!--         <mapping class="org.example.Inheritance_Table_Per_Class.Person" />-->
+<!--         <mapping class="org.example.Inheritance_Table_Per_Class.Student" />-->
+
+        <mapping class="org.example.Inheritance_Single_Table.Person" />
+        <mapping class="org.example.Inheritance_Single_Table.Student" />
+        <mapping class="org.example.Inheritance_Single_Table.Teacher" />
+
+        <!-- XML Mapping -->
+
+
     </session-factory>
 </hibernate-configuration>
