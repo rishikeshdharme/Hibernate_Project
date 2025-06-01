@@ -11,7 +11,10 @@
         <!-- Mapping -->
 <!--        <mapping class="org.example.HiberbateWithAnnotation.Employee" />-->
 
-        <mapping class="org.example.Inheritance_Joined.Person" />
-        <mapping class="org.example.Inheritance_Joined.Student" />
+<!--        <mapping class="org.example.Inheritance_Joined.Person" />-->
+<!--        <mapping class="org.example.Inheritance_Joined.Student" />-->
+
+         <mapping class="org.example.Inheritance_Table_Per_Class.Person" />
+         <mapping class="org.example.Inheritance_Table_Per_Class.Student" />
     </session-factory>
 </hibernate-configuration>
