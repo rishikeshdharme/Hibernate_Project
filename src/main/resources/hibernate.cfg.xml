@@ -17,9 +17,13 @@
 <!--         <mapping class="org.example.Inheritance_Table_Per_Class.Person" />-->
 <!--         <mapping class="org.example.Inheritance_Table_Per_Class.Student" />-->
 
-        <mapping class="org.example.Inheritance_Single_Table.Person" />
-        <mapping class="org.example.Inheritance_Single_Table.Student" />
-        <mapping class="org.example.Inheritance_Single_Table.Teacher" />
+<!--        <mapping class="org.example.Inheritance_Single_Table.Person" />-->
+<!--        <mapping class="org.example.Inheritance_Single_Table.Student" />-->
+<!--        <mapping class="org.example.Inheritance_Single_Table.Teacher" />-->
+
+       <mapping class="org.example.OneToOneDemo.Employee1" />
+        <mapping class="org.example.OneToOneDemo.Department" />
+
 
         <!-- XML Mapping -->
 
