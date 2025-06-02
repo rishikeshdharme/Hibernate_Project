@@ -21,9 +21,14 @@
 <!--        <mapping class="org.example.Inheritance_Single_Table.Student" />-->
 <!--        <mapping class="org.example.Inheritance_Single_Table.Teacher" />-->
 
-       <mapping class="org.example.OneToOneDemo.Employee1" />
-        <mapping class="org.example.OneToOneDemo.Department" />
+<!--       <mapping class="org.example.OneToOneDemo.Employee1" />-->
+<!--        <mapping class="org.example.OneToOneDemo.Department" />-->
 
+<!--        <mapping class="org.example.OneToManyDemo.User" />-->
+<!--        <mapping class="org.example.OneToManyDemo.Videos" />-->
+
+        <mapping class="org.example.ManyToManyDemo.Students" />
+        <mapping class="org.example.ManyToManyDemo.Courses" />
 
         <!-- XML Mapping -->
 
